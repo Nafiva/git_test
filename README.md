@@ -1,2 +1,3 @@
 # git_test
-can you see this
+GitHub repo!
+Hello Odin!
